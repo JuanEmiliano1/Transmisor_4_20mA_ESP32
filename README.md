@@ -1,6 +1,6 @@
 # ESP32 Industrial Temperature Transmitter (4-20mA Loop)
 
-![Hardware Prototype](link_a_la_foto_de_tu_placa_aqui.jpg)
+![Hardware Prototype](SCH_Schematic1_1-P1_2026-05-29.png)
 
 ## Overview
 This repository contains the hardware design and firmware implementation for an industrial-grade temperature transmitter. The system acquires high-precision thermal data using a thermocouple paired with a **MAX31856** precision converter, processes the signal through an **ESP32** microcontroller, and drives an analog output using an **MCP4725** DAC coupled to a robust **4-20mA current loop**.
